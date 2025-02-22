@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 Refactor core logic
 Improve performance
 Fix typo in README
+Update dependencies
