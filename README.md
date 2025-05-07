@@ -20,3 +20,4 @@ Fix typo in README
 Update dependencies
 Optimize loop
 Improve error handling
+Remove unused imports
