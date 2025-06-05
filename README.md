@@ -25,3 +25,4 @@ Add new utility script
 Clean up codebase
 Change theme color
 Add documentation
+Clean up codebase
